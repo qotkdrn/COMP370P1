@@ -1,0 +1,7 @@
+Grading:
+The body of your loop does not run in constant time, as required.: -10
+Late Penalty: -5
+Total Deductions: -15
+Final Score: 85
+  remove and index methods of list is not constant time
+  Your program can be incorrect or crash when students find some hospitals unacceptable.  (I neglected to add tests for this case, so no points off.)
